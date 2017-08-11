@@ -1,0 +1,19 @@
+{
+  "name": "whistle.swmock",
+  "version": "0.0.1",
+  "description": "基于servcie worker的动态mock插件。",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
