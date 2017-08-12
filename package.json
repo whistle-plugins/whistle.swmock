@@ -1,6 +1,6 @@
 {
   "name": "whistle.swmock",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "基于servcie worker的动态mock插件。",
   "main": "index.js",
   "directories": {

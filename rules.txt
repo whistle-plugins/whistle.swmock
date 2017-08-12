@@ -1,3 +1,2 @@
 
-# 将所有请求转发到插件
-#/./ swmock://api/
+#/./ whistle.swmock://*   #将此命令去掉注释写入到whistle配置可实现https站点弱网加速效果
